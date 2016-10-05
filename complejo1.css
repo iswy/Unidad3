@@ -1,0 +1,17 @@
+p
+{
+	border: 3px solid darksalmon;
+	border-radius: 5px;
+}
+ol li
+{
+	color: cyan;
+}
+
+/* Si hay varias listas ordenadas */
+/* y solo queremos aplicar a los elementos que depengan de <div> */
+
+.content li
+{
+	color: brown;
+}
