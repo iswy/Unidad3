@@ -1,0 +1,21 @@
+table
+{
+	margin-left: 30px;
+	margin-right: 30px;
+}
+tr td
+{
+	margin: 10px;
+	padding: 10px;
+	/* border: 10px solid green; */
+}
+tr:nth-of-type(odd) td
+{
+	border: 10px solid blue;
+
+}
+
+tr:nth-of-type(even) td
+{
+	border: 10px solid red;
+}
