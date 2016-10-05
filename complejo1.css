@@ -1,4 +1,4 @@
-p
+ol
 {
 	border: 3px solid darksalmon;
 	border-radius: 5px;
@@ -14,4 +14,25 @@ ol li
 .content li
 {
 	color: brown;
+}
+
+/*vamos a agregar*/
+li:first-child
+{
+	color: brown;
+}
+
+li:first-child
+{
+	background: yellow;
+	color: white;
+}
+
+li:nth-child(2)
+{
+	background: orange;
+}
+li:nth-child(3)
+{
+	background: cyan;
 }
