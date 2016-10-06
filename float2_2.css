@@ -1,0 +1,27 @@
+
+/* Selector universal */
+*{
+	margin:  0;
+	padding:  0;
+}
+nav
+{
+	float: left;
+	background: darkgray;
+}
+main
+{
+	background: lightgray;
+}
+
+footer
+{
+	background: gray;
+
+
+	clear: both;
+	text-align: center;
+
+	font-family: "Architects Daughter" , Arial , "Helvetica Neue";
+
+}
